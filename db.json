@@ -1,22 +1,23 @@
 {
-"id": 0,
-"description": "My NFT",
-"external_url": "https://verisart.com",
-"image": "https://images.ctfassets.net/662nae7q8cm6/5nMRTtCZcC4XzOoJOGz0sk/8faea8e842d6ca50ade3e5c4e7ad10e4/certif_and_label.jpg",
-"name": "My NFT 0"
-},
-{
-"id": 1,
-"description": "My NFT",
-"external_url": "https://verisart.com",
-"image": "https://images.ctfassets.net/662nae7q8cm6/391UFhf1x7E4lDMEEOTroB/2a2d21ed95c2ec6f21ef17e73bed3804/verisart-certified-logo_5.gif",
-"name": "My NFT 1"
-},
-{
-"id": 2,
-"description": "My NFT",
-"external_url": "https://verisart.com",
-"image": "https://i1.wp.com/assets.bwbx.io/images/users/iqjWHBFdfxIU/iLOEobMQ80eo/v1/800x-1.jpg?ssl=1",
-"name": "My NFT 2"
+  {
+  "id": 0,
+  "description": "My NFT",
+  "external_url": "https://verisart.com",
+  "image": "https://images.ctfassets.net/662nae7q8cm6/5nMRTtCZcC4XzOoJOGz0sk/8faea8e842d6ca50ade3e5c4e7ad10e4/certif_and_label.jpg",
+  "name": "My NFT 0"
+  },
+  {
+  "id": 1,
+  "description": "My NFT",
+  "external_url": "https://verisart.com",
+  "image": "https://images.ctfassets.net/662nae7q8cm6/391UFhf1x7E4lDMEEOTroB/2a2d21ed95c2ec6f21ef17e73bed3804/verisart-certified-logo_5.gif",
+  "name": "My NFT 1"
+  },
+  {
+  "id": 2,
+  "description": "My NFT",
+  "external_url": "https://verisart.com",
+  "image": "https://i1.wp.com/assets.bwbx.io/images/users/iqjWHBFdfxIU/iLOEobMQ80eo/v1/800x-1.jpg?ssl=1",
+  "name": "My NFT 2"
+  }
 }
-]
